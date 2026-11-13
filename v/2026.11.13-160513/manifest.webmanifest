@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "holidayfinder",
+  "short_name": "holidayfinder",
+  "description": "Package holidays, flights, hotels, ski trips, cruises, events and car rental, with prices that include taxes and fees.",
+  "lang": "en-GB",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#f9fafb",
+  "icons": [
+    {
+      "src": "/template/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/template/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/template/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/template/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import{t as e}from"./framework-BEHM2OKz.js";var t=e();function n({children:e,id:n,as:r=`h3`}){return(0,t.jsx)(r,{id:n,className:`flex h-9 items-end pb-0.5 type-heading-small text-text-primary desktop:items-center desktop:pb-0`,children:e})}export{n as t};

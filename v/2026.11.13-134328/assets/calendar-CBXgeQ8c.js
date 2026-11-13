@@ -1,0 +1,2 @@
+import{n as e}from"./share-C-Edybkm.js";function t(t,n,r,i){let a=e=>e.replaceAll(`-`,``),o=[`BEGIN:VCALENDAR`,`VERSION:2.0`,`PRODID:-//Ratecore//Front store//EN`,`BEGIN:VEVENT`,`UID:${i}@frontstore`,`DTSTART;VALUE=DATE:${a(n)}`,`DTEND;VALUE=DATE:${a(r)}`,`SUMMARY:${t}`,`DESCRIPTION:Ref. ${i}`,`END:VEVENT`,`END:VCALENDAR`].join(`\r
+`);e(`${i}.ics`,`text/calendar`,o)}export{t};

@@ -1,0 +1,31 @@
+# holidayfinder
+
+> Where to go, when to go and what to do when you get there: honest, practical guides to our most popular holiday destinations, written and checked by our travel team.
+
+## Destination guides
+
+- [Tenerife travel guide](https://holidayfinder.example/destinations/tenerife): Tenerife is the largest of Spain’s Canary Islands, with year-round sun in the south, Spain’s highest mountain and green northern valleys. It suits families, couples and walkers; spring and autumn are the best all-round months. (Updated 2026-10-31.)
+- [Algarve travel guide](https://holidayfinder.example/destinations/algarve): The Algarve is Portugal’s southern coast: golden cliffs and sea caves in the west, sandy islands and lagoons in the east. It suits families, couples, golfers and walkers, and is best from May to June and in September. (Updated 2026-10-31.)
+- [Santorini travel guide](https://holidayfinder.example/destinations/santorini): Santorini is a volcanic Greek island in the southern Cyclades, known for whitewashed villages on caldera cliffs, sunsets and wine. It suits couples and sightseers best; visit in May–June or September–October. (Updated 2026-10-31.)
+- [Lisbon travel guide](https://holidayfinder.example/destinations/lisbon): Lisbon is Portugal’s hilly capital on the River Tagus, known for trams, tiled façades, fado and seafood. It suits city breaks, couples and food lovers, and is best in spring (March–May) and autumn (September–October). (Updated 2026-10-31.)
+- [Gran Canaria travel guide](https://holidayfinder.example/destinations/gran-canaria): Gran Canaria is a round, mountainous Canary Island with sunny beach resorts in the south and a lively capital, Las Palmas, in the north. It suits families, couples and walkers; March–June and September–November are the best months. (Updated 2026-10-31.)
+- [Antalya travel guide](https://holidayfinder.example/destinations/antalya): Antalya is a large city on Turkey’s Mediterranean coast and the gateway to the Turkish Riviera. It suits families, couples and history lovers, with long beaches, Roman ruins and a walled old town. Go April–June or September–October. (Updated 2026-10-31.)
+- [Lanzarote travel guide](https://holidayfinder.example/destinations/lanzarote): Lanzarote is the most north-easterly of the main Canary Islands, a dry volcanic landscape of lava fields, black-sand beaches and whitewashed villages. It suits couples, families and anyone after winter sun; March–June and September–November are the best months. (Updated 2026-10-31.)
+- [Malta travel guide](https://holidayfinder.example/destinations/malta): Malta is a small island nation in the Mediterranean, south of Sicily, with a capital full of history, prehistoric temples and clear water. It suits couples, culture lovers and families. Go April–June or September–October. (Updated 2026-10-31.)
+- [Rhodes travel guide](https://holidayfinder.example/destinations/rhodes): Rhodes is the largest of Greece’s Dodecanese islands, near the coast of Turkey, with a medieval walled old town, sandy east-coast beaches and long summers. It suits families, couples and history lovers; go in May–June or September–October. (Updated 2026-10-31.)
+- [Fuerteventura travel guide](https://holidayfinder.example/destinations/fuerteventura): Fuerteventura is a dry, windswept Canary Island famous for long white-gold beaches, dunes and watersports, about 100 km off Africa. It suits beach lovers, families, surfers and winter sun seekers, and is warm all year. (Updated 2026-10-31.)
+- [Mallorca travel guide](https://holidayfinder.example/destinations/mallorca): Mallorca is the largest of Spain’s Balearic Islands, with a lively capital in Palma, mountain villages and hundreds of beaches and coves. It suits families, couples, walkers and cyclists. Go May–June or September–October. (Updated 2026-10-31.)
+- [Crete travel guide](https://holidayfinder.example/destinations/crete): Crete is Greece’s largest island, in the southern Aegean, with Minoan palaces, Venetian harbour towns, mountain gorges and long beaches. It suits families, walkers and food lovers; visit in May–June or September–October. (Updated 2026-10-31.)
+
+## Help and information
+
+- [About us](https://holidayfinder.example/info/about-us): Who we are, what we sell, how we choose hotels and partners, and the promises we make to everyone who books a trip with holidayfinder.
+- [Affiliate programme](https://holidayfinder.example/info/affiliate-programme): Join the holidayfinder affiliate programme: links, destination guide deep links and a deals feed for travel bloggers, creators and publishers.
+- [Book with confidence](https://holidayfinder.example/info/book-with-confidence): Financial protection for package holidays, secure payment, free cancellation on selected hotels, Flex and 24/7 support while you travel.
+- [Campaigns and offers](https://holidayfinder.example/info/campaigns): Current holidayfinder campaigns and offers: flexible payment plans, seasonal deals and ways to save on holidays, flights, stays and experiences.
+- [Contact us](https://holidayfinder.example/info/contact-us): Reach holidayfinder’s travel experts 24/7 by WhatsApp, phone or email. Help before you book, during your trip and after you’re home.
+- [holidayfinder®Flex](https://holidayfinder.example/info/flex): Cancel for any reason up to 24 hours before departure and get 90% of your trip price back. How Flex works, what it costs and what it covers.
+- [Help Centre](https://holidayfinder.example/info/help): Answers about booking, payment plans, changes and cancellations, holidayfinder®Flex, baggage, transfers, car rental and special assistance.
+- [Payment options](https://holidayfinder.example/info/payment-options): Pay in full, pay a deposit, pay in 3 instalments at no extra cost or split the payment. Card, PayPal, Apple Pay and Google Pay accepted.
+- [Why holidayfinder](https://holidayfinder.example/info/why-us): Prices with taxes and fees included, flexible payment plans, Flex, financial protection and 24/7 support: why to book with holidayfinder.
+- [Work with us](https://holidayfinder.example/info/work-with-us): Careers at holidayfinder: how we work, our teams, our hiring process and speculative applications. Hotels and local experiences can partner with us.

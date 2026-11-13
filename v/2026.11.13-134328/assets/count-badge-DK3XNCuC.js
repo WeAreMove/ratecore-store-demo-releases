@@ -1,0 +1,1 @@
+import{t as e}from"./framework-BEHM2OKz.js";var t=e();function n({count:e,className:n}){return e<1?null:(0,t.jsx)(`span`,{"aria-hidden":!0,className:`inline-flex h-4 min-w-4 items-center justify-center rounded-control-sm bg-background-inverted px-1 type-label-xs text-text-inverted ${n??``}`,children:e>9?`9+`:e})}export{n as t};

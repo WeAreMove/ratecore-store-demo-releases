@@ -1,0 +1,1 @@
+function e(e){return{get(t){try{let n=e()?.getItem(t);return n?JSON.parse(n):void 0}catch{return}},set(t,n){try{e()?.setItem(t,JSON.stringify(n))}catch{}}}}var t={...e(()=>globalThis.localStorage),session:e(()=>globalThis.sessionStorage)};export{t};

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /checkout/
+Disallow: /account/
+Disallow: /favourites
+Disallow: /_dev/
+
+Sitemap: https://holidayfinder.example/sitemap.xml

@@ -1,0 +1,1 @@
+import{t as e}from"./framework-BEHM2OKz.js";var t=e();function n({icon:e,label:n}){return(0,t.jsxs)(`li`,{className:`flex items-center gap-3 type-label-medium text-text-primary`,children:[(0,t.jsx)(e,{"aria-hidden":!0,focusable:!1,className:`size-5 shrink-0`}),n]})}export{n as t};

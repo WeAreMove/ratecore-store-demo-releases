@@ -1,0 +1,1 @@
+import{n as e,t}from"./room-info-DiUzs4NR.js";import{t as n}from"./framework-BEHM2OKz.js";var r=n();function i({overlay:n,onClose:i,cabin:a,cabinContext:o,flexPrice:s}){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t,{isOpen:n===`cabin-info`,onClose:i,room:a,context:o}),(0,r.jsx)(e,{isOpen:n===`flex-terms`,onClose:i,price:s})]})}export{i as CruiseOverlays};

@@ -1,0 +1,1 @@
+function e(e,t){let n=new Date(`${e}T00:00:00Z`);return n.setUTCDate(n.getUTCDate()+t),n.toISOString().slice(0,10)}export{e as t};

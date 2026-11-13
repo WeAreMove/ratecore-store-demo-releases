@@ -1,0 +1,1 @@
+import{a as e}from"./currency-CMtMcuHT.js";import{t}from"./format-D3VDNR3P.js";var n=e(),r=`en-GB`,i=e=>t(e,n,r),a=e=>e>0?`+${i(e)}`:e<0?`−${i(-e)}`:i(0),o=e=>new Intl.NumberFormat(r).format(e);export{i as n,a as r,o as t};

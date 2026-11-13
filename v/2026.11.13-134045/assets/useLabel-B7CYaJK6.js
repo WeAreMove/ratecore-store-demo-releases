@@ -1,0 +1,1 @@
+import{at as e}from"./useHover-CwzmADyX.js";import{t}from"./useLabels-DwFFGKwG.js";function n(n){let{id:r,label:i,"aria-labelledby":a,"aria-label":o,labelElementType:s=`label`}=n;r=e(r);let c=e(),l={};i&&(a=a?`${c} ${a}`:c,l={id:c,htmlFor:s===`label`?r:void 0});let u=t({id:r,"aria-label":o,"aria-labelledby":a});return{labelProps:l,fieldProps:u}}export{n as t};

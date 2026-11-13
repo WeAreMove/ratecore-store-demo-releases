@@ -1,0 +1,1 @@
+import{c as e,t}from"./framework-BEHM2OKz.js";import{n}from"./i18n-ByaXpm-U.js";import{r}from"./page-meta-BLvOX4Zz.js";import{t as i}from"./system-screens-CtaVDZH3.js";var a=t(),o=e=>r(e,n.meta.notFound),s=e(function(){return(0,a.jsx)(i,{})});export{s as default,o as meta};

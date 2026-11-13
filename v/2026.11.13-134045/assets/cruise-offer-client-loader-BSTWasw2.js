@@ -1,0 +1,1 @@
+import{t as e}from"./party-url-D_eZivct.js";var t=({request:t})=>(e(t),null);export{t as clientLoader};

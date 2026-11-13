@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{O as t,h as n,m as r}from"./framework-BEHM2OKz.js";var i=e(t(),1);function a(){return r().state?.engineMode}function o(){let e=n();return(0,i.useCallback)(t=>void e(`/`,{state:{engineMode:t}}),[e])}export{o as n,a as t};

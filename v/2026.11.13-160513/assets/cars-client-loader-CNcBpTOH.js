@@ -1,0 +1,1 @@
+import{r as e}from"./engine-chunk-DODx60IJ.js";var t=()=>e(`cars`);export{t as clientLoader};

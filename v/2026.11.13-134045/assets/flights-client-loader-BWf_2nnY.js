@@ -1,0 +1,1 @@
+import{r as e}from"./engine-chunk-DP0czl_E.js";import{t}from"./party-url-D_eZivct.js";var n=({request:n})=>(t(n),e(`flights`));export{n as clientLoader};

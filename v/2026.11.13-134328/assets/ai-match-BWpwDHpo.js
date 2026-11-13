@@ -1,0 +1,1 @@
+import{c as e,t}from"./framework-BEHM2OKz.js";import{n}from"./i18n-CtxuE2cD.js";import"./aiMatch-DuKHo6Wr.js";import{n as r}from"./ai-match-Dh_vo0_k.js";import{i}from"./page-meta-BSJniBSo.js";var a=t(),o=e=>i(e,{title:n.aiMatch.title,description:n.aiMatch.seo.description}),s=e(function(){return(0,a.jsx)(r,{})});export{s as default,o as meta};

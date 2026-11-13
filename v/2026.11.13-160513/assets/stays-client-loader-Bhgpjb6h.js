@@ -1,0 +1,1 @@
+import{r as e}from"./engine-chunk-DODx60IJ.js";import{t}from"./party-url-CX4tSTqo.js";var n=({request:n})=>(t(n),e(`stays`));export{n as clientLoader};
