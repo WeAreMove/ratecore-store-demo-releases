@@ -1,0 +1,1 @@
+import{v as e}from"./framework-BEHM2OKz.js";var t=()=>e();export{t};

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://holidayfinder.example/</loc></url>
+  <url><loc>https://holidayfinder.example/destinations</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/tenerife</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/algarve</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/santorini</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/lisbon</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/gran-canaria</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/antalya</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/lanzarote</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/malta</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/rhodes</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/fuerteventura</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/mallorca</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/destinations/crete</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/about-us</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/accessibility</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/affiliate-programme</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/book-with-confidence</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/campaigns</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/cancellation-policy</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/contact-us</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/flex</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/help</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/payment-options</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/privacy-and-cookies</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/terms-of-sale</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/terms-of-service</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/why-us</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://holidayfinder.example/info/work-with-us</loc><lastmod>2026-10-24</lastmod></url>
+</urlset>

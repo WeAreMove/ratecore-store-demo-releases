@@ -1,0 +1,1 @@
+import{r as e}from"./engine-chunk-TclNFbV9.js";var t=()=>e(`cars`);export{t as clientLoader};

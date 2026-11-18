@@ -1,0 +1,1 @@
+import{t as e}from"./store-config-D1QxthJB.js";import{o as t}from"./engine-modes-D5lQUdQv.js";async function n(){return await t((await e()).engine.defaultMode),null}export{n as clientLoader};

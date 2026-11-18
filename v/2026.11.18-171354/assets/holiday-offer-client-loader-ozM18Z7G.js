@@ -1,0 +1,1 @@
+import{r as e}from"./package-offer-D4UccRc6.js";import{t}from"./party-url-DlC1QJib.js";var n=async({request:n,params:r})=>(t(n),await e(r.offerId),null);export{n as clientLoader};

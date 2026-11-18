@@ -1,0 +1,1 @@
+import{c as e}from"./framework-BEHM2OKz.js";import{n as t}from"./i18n-ByaXpm-U.js";import{r as n}from"./page-meta-BLvOX4Zz.js";var r=e=>n(e,t.meta.serverError),i=e(function(){throw Error(`Deliberate error for the 500 screen review`)});export{i as default,r as meta};

@@ -1,0 +1,1 @@
+import{r as e}from"./engine-chunk-C3vIt5HM.js";import{t}from"./party-url-CX4tSTqo.js";import{b as n,u as r}from"./results-url-tlZEUpXR.js";var i=({request:i})=>(t(i),r(new URL(i.url).searchParams)&&n.preload(),e(`events`));export{i as clientLoader};

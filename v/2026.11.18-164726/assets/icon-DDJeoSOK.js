@@ -1,0 +1,1 @@
+import{t as e}from"./framework-BEHM2OKz.js";var t=e();function n(e){function n({className:n,...r}){return(0,t.jsx)(e,{...r,className:n?`rtl:-scale-x-100 ${n}`:`rtl:-scale-x-100`})}return n.displayName=`MirrorInRtl(${e.displayName??e.name})`,n}export{n as t};

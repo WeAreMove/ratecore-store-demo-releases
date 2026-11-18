@@ -1,0 +1,1 @@
+function e(e,t,n,r){let i=[];for(let a of Object.keys(r)){let o=r[a],s=e[a];if(o){if(Array.isArray(s))for(let t of s)i.push({id:`${a}:${String(t)}`,label:o(t),onRemove:()=>n({...e,[a]:s.filter(e=>e!==t)})});else s!==void 0&&s!==t[a]&&i.push({id:a,label:o(s),onRemove:()=>n({...e,[a]:t[a]})})}}return i}export{e as t};

@@ -1,0 +1,1 @@
+import{n as e}from"./ai-match-url-B1FqCLX1.js";import{n as t}from"./engine-chunk-TclNFbV9.js";import{t as n}from"./party-url-DlC1QJib.js";import{t as r}from"./viewport-CFyedecI.js";async function i({request:i,params:a}){return n(i),(!(a.destinationId||e(new URL(i.url).searchParams).submitted)||r())&&await t(`ai-match`),null}export{i as clientLoader};

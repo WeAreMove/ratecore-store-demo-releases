@@ -1,0 +1,1 @@
+import{t as e}from"./framework-BEHM2OKz.js";var t=e();function n(){return(0,t.jsx)(`span`,{"aria-hidden":!0,className:`pointer-events-none absolute inset-y-0 end-0 w-12 bg-linear-to-r from-background-surface/0 to-background-surface rtl:bg-linear-to-l`})}export{n as t};

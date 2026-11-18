@@ -1,0 +1,1 @@
+import{i as e}from"./ski-DWL_qT38.js";import{n as t,r as n,t as r}from"./ski-offer-for-h4WSW8qt.js";import{packageLinkBooking as i}from"./package-60ZcRIyh.js";function a(a){let o=a.get(`ski`)??void 0;if(!e(o))return;let s=a.toString(),{ski:c,trip:l}=r(o,`default`,s,a.get(`opened`)??s),{checkout:u}=t(c,n(c,a));return i(c.offer,l,a,u)}export{a as skiBooking};

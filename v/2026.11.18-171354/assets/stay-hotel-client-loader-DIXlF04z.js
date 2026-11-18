@@ -1,0 +1,1 @@
+import{t as e}from"./party-url-DlC1QJib.js";var t=({request:t})=>(e(t),null);export{t as clientLoader};

@@ -1,0 +1,1 @@
+import{t as e}from"./party-url-CX4tSTqo.js";var t=({request:t})=>(e(t),null);export{t as clientLoader};

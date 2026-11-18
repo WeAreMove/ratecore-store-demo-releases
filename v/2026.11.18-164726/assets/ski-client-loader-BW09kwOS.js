@@ -1,0 +1,1 @@
+import{r as e}from"./engine-chunk-BGO5hvZO.js";import{t}from"./party-url-CX4tSTqo.js";var n=({request:n})=>(t(n),e(`ski`));export{n as clientLoader};

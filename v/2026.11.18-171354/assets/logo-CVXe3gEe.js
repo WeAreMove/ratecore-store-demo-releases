@@ -1,0 +1,1 @@
+import{t as e}from"./framework-BEHM2OKz.js";var t=e(),n=`h-6 w-auto shrink-0 self-start`;function r({logo:{light:e,dark:r},alt:i=``}){return r?(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(`img`,{...e,alt:i,className:`${n} dark:hidden`}),(0,t.jsx)(`img`,{...r,alt:i,className:`${n} hidden dark:block`})]}):(0,t.jsx)(`img`,{...e,alt:i,className:n})}export{r as t};
